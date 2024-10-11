@@ -1,5 +1,4 @@
 # @telegram-apps/create-mini-app
-
 <p style="display: inline-flex; gap: 8px">
   <a href="https://npmjs.com/package/@telegram-apps/create-mini-app">
     <img src="https://img.shields.io/npm/v/@telegram-apps/create-mini-app?logo=npm"/>
